@@ -11,7 +11,7 @@ Double click on the fresh server build executable, and that's it!
 The server will always try to open at UDP port 42069,
 but tries higher port numbers if it's already taken.
 
-# How to connect to a server:
+# How to connect to a server
 Double click on the fresh client build executable,
 and enter IP address and port number at top left.
 
