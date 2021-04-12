@@ -1,5 +1,6 @@
 # Pong Demo
 A demo project for a simple UDP Pong game.
+Made with Unity 2019.4 LTS (15f1).
 
 # How to build
 Client: Build the project as you would normally build a Windows/Mac/Linux executable.
